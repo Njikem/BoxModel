@@ -1,14 +1,17 @@
 h1 {
     background-color:aquamarine;
 padding: 5px 10px;
+border: 2px dashed black;
 }
 
 h2 {
     background-color:bisque;
     padding: 6px 10px;
+    border: 2px dashed red;
 }
 
 p {
     background-color: aqua;
     padding: 7px 10px;
+    border: 2px dashed green;
 }
